@@ -34,13 +34,6 @@ I enjoy building clean and responsive web interfaces and continuously improving 
 
 <br><br><br>
 
-### 📊 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<br>
 
 ### 🛠️ My Goals
 
